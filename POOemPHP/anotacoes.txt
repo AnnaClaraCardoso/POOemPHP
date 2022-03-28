@@ -1,0 +1,14 @@
+- Tec. Web III - Implementação em POO
+- PSOO - Modelagem em POO
+	- independente da linguagem de programação
+
+
+- Framewoks baseados em POO
+
+- Conceitos de POO
+	- Polimorfismo (diferentes formas de execução)
+	- Herança (superclasses)
+	- Encapsulamento
+	- Interfaces
+	- Abstração (classes que só servem para gerar classes filhas)
+		
